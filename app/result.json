@@ -1,0 +1,167 @@
+"products": [
+  {
+    "product": {
+      "_id": "652ad355ea33db19b7fc8558",
+      "name": "Pizza quatro queijos",
+      "description": "deliciosa pizza quatro queijos",
+      "imagePath": "1697305429770-quatro-queijos.png",
+      "price": 40,
+      "ingredients": [
+        {
+          "name": "Mussarela",
+          "icon": "🍕",
+          "_id": "652ad355ea33db19b7fc8559"
+        },
+        {
+          "name": "Parmesão",
+          "icon": "🍕",
+          "_id": "652ad355ea33db19b7fc855a"
+        },
+        {
+          "name": "Gouda",
+          "icon": "🍕",
+          "_id": "652ad355ea33db19b7fc855b"
+        },
+        {
+          "name": "Brie",
+          "icon": "🍕",
+          "_id": "652ad355ea33db19b7fc855c"
+        }
+      ],
+      "category": "6529fb7ee064d15c66bf06e3",
+      "__v": 0
+    },
+    "quantity": 1,
+    "_id": "6550cc68f4915eca456d03f7"
+  },
+  {
+    "product": {
+      "_id": "652ad6adc870300dab48d8f5",
+      "name": "Coca cola",
+      "description": "Bebida gelada",
+      "imagePath": "1697306285050-coca-cola.png",
+      "price": 7,
+      "ingredients": [],
+      "category": "6529fbd8e064d15c66bf06e6",
+      "__v": 0
+    },
+    "quantity": 1,
+    "_id": "6550cc68f4915eca456d03f8"
+  }
+],
+"createdAt": "2023-11-12T13:00:24.135Z",
+"__v": 0
+},
+{
+"_id": "6550cc84f4915eca456d040b",
+"table": "3",
+"status": "CONCLUDED",
+"updatedAt": "2023-11-12T13:01:55.155Z",
+"products": [
+  {
+    "product": {
+      "_id": "652d6b169aa2183b5ebcacff",
+      "name": "Pizza Marguerita",
+      "description": "Pizza de Marguerita no melhor da culinária italiana.",
+      "imagePath": "1697475350919-marguerita.png",
+      "price": 42,
+      "ingredients": [
+        {
+          "name": "Tomate",
+          "icon": "🍅",
+          "_id": "652d6b169aa2183b5ebcad00"
+        },
+        {
+          "name": "Manjericão",
+          "icon": "🫒",
+          "_id": "652d6b169aa2183b5ebcad01"
+        }
+      ],
+      "category": "6529fb7ee064d15c66bf06e3",
+      "__v": 0
+    },
+    "quantity": 1,
+    "_id": "6550cc84f4915eca456d040c"
+  },
+  {
+    "product": {
+      "_id": "652d6b649aa2183b5ebcad04",
+      "name": "Suco de Laranja",
+      "description": "Suco natural e saudável",
+      "imagePath": "1697475428948-suco-de-laranja.png",
+      "price": 10,
+      "ingredients": [],
+      "category": "6529fbd8e064d15c66bf06e6",
+      "__v": 0
+    },
+    "quantity": 1,
+    "_id": "6550cc84f4915eca456d040d"
+  }
+],
+"createdAt": "2023-11-12T13:00:52.181Z",
+"__v": 0
+},
+{
+"_id": "6550ce04f4915eca456d04be",
+"table": "7",
+"status": "DONE",
+"updatedAt": "2023-11-12T13:07:39.889Z",
+"products": [
+  {
+    "product": {
+      "_id": "652ad6adc870300dab48d8f5",
+      "name": "Coca cola",
+      "description": "Bebida gelada",
+      "imagePath": "1697306285050-coca-cola.png",
+      "price": 7,
+      "ingredients": [],
+      "category": "6529fbd8e064d15c66bf06e6",
+      "__v": 0
+    },
+    "quantity": 1,
+    "_id": "6550ce04f4915eca456d04bf"
+  },
+  {
+    "product": {
+      "_id": "652d6b649aa2183b5ebcad04",
+      "name": "Suco de Laranja",
+      "description": "Suco natural e saudável",
+      "imagePath": "1697475428948-suco-de-laranja.png",
+      "price": 10,
+      "ingredients": [],
+      "category": "6529fbd8e064d15c66bf06e6",
+      "__v": 0
+    },
+    "quantity": 1,
+    "_id": "6550ce04f4915eca456d04c0"
+  },
+  {
+    "product": {
+      "_id": "652d6b169aa2183b5ebcacff",
+      "name": "Pizza Marguerita",
+      "description": "Pizza de Marguerita no melhor da culinária italiana.",
+      "imagePath": "1697475350919-marguerita.png",
+      "price": 42,
+      "ingredients": [
+        {
+          "name": "Tomate",
+          "icon": "🍅",
+          "_id": "652d6b169aa2183b5ebcad00"
+        },
+        {
+          "name": "Manjericão",
+          "icon": "🫒",
+          "_id": "652d6b169aa2183b5ebcad01"
+        }
+      ],
+      "category": "6529fb7ee064d15c66bf06e3",
+      "__v": 0
+    },
+    "quantity": 1,
+    "_id": "6550ce04f4915eca456d04c1"
+  }
+],
+"createdAt": "2023-11-12T13:07:16.721Z",
+"__v": 0
+}
+]

@@ -1,0 +1,11 @@
+[
+  { "name": "Mussarela", "icon": "🍕" },
+  { "name": "Parmesão", "icon": "🍕" },
+  { "name": "Gouda", "icon": "🍕" },
+  { "name": "Brie", "icon": "🍕" }
+]
+
+
+[{ "name": "Frango", "icon": "🐔" } , { "name": "Catupiry","icon": "🧀" }]
+
+[{ "name": "Tomate", "icon": "🍅" } , { "name": "Manjericão","icon": "🫒" }]
